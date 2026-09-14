@@ -1,0 +1,1 @@
+{"name": "@distqueue/worker", "version": "1.0.0", "description": "DistQueue worker - processes tasks from the queue", "main": "index.js", "dependencies": {"@distqueue/shared": "workspace:*", "@distqueue/store": "workspace:*"}}
