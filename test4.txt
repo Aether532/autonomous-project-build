@@ -1,0 +1,1 @@
+module.exports = { POLL_INTERVAL: 30000 }
