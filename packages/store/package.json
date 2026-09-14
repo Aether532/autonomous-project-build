@@ -1,0 +1,1 @@
+{"name": "@distqueue/store", "version": "1.0.0", "description": "Pluggable storage backends for DistQueue", "main": "index.js", "dependencies": {"@distqueue/shared": "workspace:*"}}
