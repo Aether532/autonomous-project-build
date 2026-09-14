@@ -1,0 +1,1 @@
+{"name": "@distqueue/src", "version": "1.0.0", "description": "DistQueue server - Express REST API + WebSocket", "main": "index.js", "dependencies": {"express": "^4.19.0", "ws": "^8.17.0", "@distqueue/shared": "workspace:*", "@distqueue/store": "workspace:*"}}
