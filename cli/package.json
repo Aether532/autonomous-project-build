@@ -1,0 +1,1 @@
+{"name": "@distqueue/cli", "version": "1.0.0", "description": "DistQueue CLI - command-line interface", "bin": {"distqueue": "bin.js"}, "dependencies": {"commander": "^12.0.0", "@distqueue/shared": "workspace:*", "@distqueue/store": "workspace:*"}}
