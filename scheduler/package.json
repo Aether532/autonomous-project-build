@@ -1,0 +1,1 @@
+{"name": "@distqueue/scheduler", "version": "1.0.0", "description": "Cron-based job scheduler for DistQueue", "main": "index.js", "dependencies": {"@distqueue/shared": "workspace:*", "@distqueue/store": "workspace:*"}}
